@@ -1,4 +1,4 @@
-# wabot-aq
+# WA-BOT
 
 Simple WhatsApp Bot
 
